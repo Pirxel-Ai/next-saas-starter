@@ -7,13 +7,15 @@ import Container from 'components/Container';
 import { media } from 'utils/media';
 
 const PARTNER_LOGOS = [
-  'logoipsum-logo-1.svg',
-  'logoipsum-logo-2.svg',
-  'logoipsum-logo-3.svg',
-  'logoipsum-logo-4.svg',
-  'logoipsum-logo-5.svg',
-  'logoipsum-logo-6.svg',
-  'logoipsum-logo-7.svg',
+  'aa.svg',
+  'lufthansa.svg',
+  'bbva.svg',
+  'santander.svg',
+  'kcb.svg',
+  'bitso.svg',
+  'binance.svg',
+  'uala.svg',
+  'paypal.svg',
 ];
 
 export default function Partners() {

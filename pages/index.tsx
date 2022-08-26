@@ -29,11 +29,8 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
           <Partners />
           <BasicSection imageUrl="/demo-illustration-1.svg" title="Lorem ipsum dolor sit amet consectetur." overTitle="sit amet gogo">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore
-              voluptate quo deleniti animi laboriosam.{' '}
-              <Link href="/help-center">Possimus ullam velit rem itaque consectetur, in distinctio?</Link> Lorem ipsum, dolor sit amet
-              consectetur adipisicing elit. Soluta repellendus quia quos obcaecati nihil. Laudantium non accusantium, voluptate eum nesciunt
-              at suscipit quis est soluta?
+            Twitter is a public space where scammers reply to complaints in which brands are mentioned, posing as the brand&apos;s customer support.
+            We alert vulnerable clients whenever this happens. We protect your company reputation.
             </p>
           </BasicSection>
           <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" reversed>

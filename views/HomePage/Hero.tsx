@@ -15,10 +15,10 @@ export default function Hero() {
     <HeroWrapper>
       <Contents>
         <CustomOverTitle>the coolest, saas product you have ever seen</CustomOverTitle>
-        <Heading>Make your life easier with our SaaS</Heading>
+        <Heading>Protect your clients from fraudulent behavior in Twitter</Heading>
         <Description>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, tempora qui. Explicabo voluptate iure ipsum molestias
-          repudiandae perspiciatis nostrum praesentium, unde pariatur tempora magni rem. Necessitatibus facilis obcaecati ratione.
+        We use AI to detect fake users that try to impersonate on behalf of
+        real companies in social media and alerts potential victims in real-time.
         </Description>
         <CustomButtonGroup>
           <Button onClick={() => setIsModalOpened(true)}>
