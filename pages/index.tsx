@@ -27,7 +27,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
         <WhiteBackgroundContainer>
           <Hero />
           <Partners />
-          <BasicSection imageUrl="/demo-illustration-1.svg" title="Lorem ipsum dolor sit amet consectetur." overTitle="sit amet gogo">
+          <BasicSection imageUrl="/demo-illustration-1.svg" title="Scan. Alert. Audit" overTitle="sit amet gogo">
             <p>
             Twitter is a public space where scammers reply to complaints in which brands are mentioned, posing as the brand&apos;s customer support.
             We alert vulnerable clients whenever this happens. We protect your company&apos;s reputation.

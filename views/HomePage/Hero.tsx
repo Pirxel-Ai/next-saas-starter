@@ -14,7 +14,7 @@ export default function Hero() {
   return (
     <HeroWrapper>
       <Contents>
-        <CustomOverTitle>the coolest, saas product you have ever seen</CustomOverTitle>
+        <CustomOverTitle>your guardian against impersonation accounts</CustomOverTitle>
         <Heading>Protect your clients from fraudulent behavior in Twitter</Heading>
         <Description>
         We use AI to detect fake users that try to impersonate on behalf of
